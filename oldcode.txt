@@ -1,0 +1,86 @@
+<head>
+
+<style>
+body {
+  background-image: url("images/bb_orange_logo.PNG");
+  //opacity: 0.5;
+}
+
+</style>
+</head>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<title>Team BlueBrew</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<?
+<head><link rel="stylesheet" href="w3.css"></head>
+?>
+
+<body>
+
+<div class="w3-top">
+  <div class="w3-bar w3-blue w3-wide w3-padding w3-card-2">
+    <a href="#home" class="w3-bar-item w3-button"><b>Blue</b>Brew</a>
+    <!-- float the links to the right -->
+    <div class="w3-right w3-hide-small">
+      <!-- Here is where to add items to the navigational bar -->
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+    </div
+  </div>
+</div>
+
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="images/bb_main_logo.png" alt="BlueBrew" width="1500" height="800">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>BlewBrew</b></span></h1>
+  </div>
+</header>
+
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Team Members</h3>
+    <p>Hello, and welcome to our Team BlueBrew website.  The four of us are excited to have you.  We have been assigned a project for our capstone Senior Design class for the Computer Science and Engineering Degrees at the University of Texas at Arlington.  Our project is a blue tooth based thermohydrometer.  Please see the [insert section here after done].  Here you will see a short description of each of the team members involved in the Project.
+    </p>
+  </div
+
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="images/noimage.png" alt="Sakar" style="width:100%">
+      <h3>Sakar Dahal</h3>
+      <p class="w3-opacity">Computer Science</p>
+      <p>Description coming soon.</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="images/noimage.png" alt="Jane" style="width:100%">
+      <h3>Sosal Pohkrel</h3>
+      <p class="w3-opacity">Computer Science</p>
+      <p>Description coming soon.</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="images/noimage.png" alt="Mike" style="width:100%">
+      <h3>Clint Wetzel</h3>
+      <p class="w3-opacity">Computer Engineer</p>
+      <p>Description coming soon.</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="images/noimage.png" alt="Dan" style="width:100%">
+      <h3>Mike Whitsitt</h3>
+      <p class="w3-opacity">Computer Science</p>
+      <p>Description coming soon.</p>
+    </div>
+  </div>
+
+</div>
+
+<footer class="w3-center w3-blue w3-padding-16">
+  <p>Team BlueBrew</p>
+</footer>
+
+</body>
+</html>
