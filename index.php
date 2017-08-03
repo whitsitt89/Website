@@ -38,17 +38,19 @@
 
   <div class="w3-row-padding w3-container centered w3-grayscale">
     <div class="w3-col w3col-centered l5 m6 w3-margin-bottom">
-      <img class="w3-image" src="images/noimage2.png" alt="Sakar" width="271" height="203">
+      <img class="w3-image" src="images/sakar.png" alt="Sakar" width="271" height="203">
       <h3>Sakar Dahal</h3>
       <p class="w3-opacity">Computer Science</p>
-      <p>Description coming soon.</p>
+      <p>Sakar is presently pursuing his Bachelor degree in Computer Science. He likes to spend his spare time playing guitar, composing his own music, and playing chess. He wants to further his work and research on the Artificial Intelligent (AI), after his under-graduation degree.</p>
     </div>
     <div class="w3-col l5 m6 w3-margin-bottom">
-      <img class="w3-image" src="images/noimage2.png" alt="Sosal" width="271" hieght="203">
+      <img class="w3-image" src="images/sosal.jpg" alt="Sosal" width="271" hieght="203">
       <h3>Sosal Pohkrel</h3>
       <p class="w3-opacity">Computer Science</p>
-      <p>Description coming soon.</p>
+      <p>Sosal is currently pursing Bachelor in Computer Science. He is from Nepal, and he likes to start his own business sometime soon. He loves to travel, and planed to climb Mt Everest soon.</p>
     </div>
+  </div>
+  <div class="w3-row-padding w3-container centered w3-grayscale">
     <div class="w3-col l5 m6 w3-margin-bottom">
       <img class="w3-image" src="images/noimage2.png" alt="Clint" width="271" heigth="203">
       <h3>Clint Wetzel</h3>
