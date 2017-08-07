@@ -12,6 +12,9 @@
     <a href="#home" class="w3-bar-item w3-button"><b>Blue</b>Brew</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
+      <a href="#reading" class="w3-bar-item w3-button">Take Reading</a>
+      <a href="#batch" class="w3-bar-item w3-button">Batch Information</a>
+      <a href="#videos" class="w3-bar-item w3-button">Demo Videos</a>
       <a href="#about" class="w3-bar-item w3-button">About</a>
     </div>
   </div>
@@ -28,7 +31,23 @@
 <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
 
+  <!-- Take A Reading Section -->
+  <div class="w3-container w3-padding-32" id="reading">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Take a Single Reading</h3>
+    <p>This is The section to take a single reading from the BlueBrew Thermohydrometer.  Press the button below to get a single reading for the current Temperature, Specific Gravity, and Battery Life of the liquid.
+  </div>
 
+  <!-- Batch Information Section -->
+  <div class="w3-container w3-padding-32" id="batch">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Batch Information</h3>
+    <p>This is the section to take large scale reading from a particular batch using the BlueBrew Thermohydrometer.  Press the button below to view the different batches.  Then, after deciding which batch that you want to view, you will see several graph options; the batch Specific Gravity life, the batch Temperature Life, and the batcch Battery Life.  One one is chosen, a graphical representation willappear, which will display the data in a user friendly format.
+  </div>
+
+  <!-- Video Demostration Section -->
+  <div class="w3-container w3-padding-32" id="videos">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Demonstration Videos</h3>
+    <p>Here you will find different videos demonstrating different elements of the BlueBrew Project.
+  </div>
 
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
@@ -52,10 +71,10 @@
   </div>
   <div class="w3-row-padding w3-container centered w3-grayscale">
     <div class="w3-col l5 m6 w3-margin-bottom">
-      <img class="w3-image" src="images/noimage2.png" alt="Clint" width="271" heigth="203">
+      <img class="w3-image" src="images/clint.jpg" alt="Clint" width="271" heigth="203">
       <h3>Clint Wetzel</h3>
       <p class="w3-opacity">Computer Engineering</p>
-      <p>Description coming soon.</p>
+      <p>Clint is a Senior Computer Engineering student at UTA and plans to go into the field of Digital Signal Processing (DSP) preferably in audio. He enjoys playing video games, watching football, and hanging out with friends. Clint is married to his wife Kristen, who is a teacher in Mansfield Independent School District. </p>
     </div>
     <div class="w3-col l5 m6 w3-margin-bottom">
       <img class="w3-image" src="images/mike.jpg" alt="Mike" width="250" height="203">
