@@ -64,7 +64,7 @@
     </div>
     <div class="w3-col l5 m6 w3-margin-bottom">
       <img class="w3-image" src="images/sosal.jpg" alt="Sosal" width="271" hieght="203">
-      <h3>Sosal Pohkrel</h3>
+      <h3>Sosal Pokhrel</h3>
       <p class="w3-opacity">Computer Science</p>
       <p>Sosal is currently pursing Bachelor in Computer Science. He is from Nepal, and he likes to start his own business sometime soon. He loves to travel, and planed to climb Mt Everest soon.</p>
     </div>
